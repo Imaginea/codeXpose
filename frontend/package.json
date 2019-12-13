@@ -8,7 +8,7 @@
     "history": "^4.7.2",
     "jquery": "^3.3.1",
     "moment": "^2.22.2",
-    "npm": "^5.8.0",
+    "npm": "^6.13.4",
     "react": "^16.3.1",
     "react-datetime": "^2.14.0",
     "react-dom": "^16.3.1",
